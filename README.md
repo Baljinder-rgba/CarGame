@@ -18,6 +18,8 @@ A/D - Change Direction
 
 💠 UI
 
+💠 10+ Different Vehicles
+
 
 ## Video Showcase 📸
 
