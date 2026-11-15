@@ -22,4 +22,8 @@ A/D - Change Direction
 
 
 ## Video Showcase 📸
-<video src="GamePlayVideo.mp4" controls width="100%"></video>
+
+
+https://github.com/user-attachments/assets/ca2c8308-87be-4da4-89b4-a9ac42781db6
+
+
