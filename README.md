@@ -23,7 +23,8 @@ A/D - Change Direction
 
 ## Video Showcase 📸
 
+https://github.com/user-attachments/assets/370be73f-1465-4df2-a16d-98b68fbf3dbc
 
-https://github.com/user-attachments/assets/ca2c8308-87be-4da4-89b4-a9ac42781db6
+
 
 
