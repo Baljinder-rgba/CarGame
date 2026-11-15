@@ -22,5 +22,4 @@ A/D - Change Direction
 
 
 ## Video Showcase 📸
-<iframe src = "GamePlayVideo.mp4"/>
-
+https://github.com/Baljinder-rgba/CarGame/blob/main/GamePlayVideo.mp4
