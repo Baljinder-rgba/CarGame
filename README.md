@@ -22,5 +22,5 @@ A/D - Change Direction
 
 
 ## Video Showcase 📸
-<iframe>GamePlayVideo.mp4 </iframe>
+<iframe src = "GamePlayVideo.mp4"/>
 
